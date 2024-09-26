@@ -1,6 +1,6 @@
 <?php
 
-	const APP_URL="http://localhost/CRUD-main/";
+	const APP_URL="http://localhost/calidadsg_weather/";
 	const APP_NAME="CRUD POO MySQL";
 	const APP_SESSION_NAME="CRUD";
 
